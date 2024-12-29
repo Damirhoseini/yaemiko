@@ -1,7 +1,7 @@
+trojan://MahsaNG-IRGFW@172.213.245.46:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=randomized&type=tcp&sni=12azitttt.rahavard365.co#%F0%9F%87%AE%F0%9F%87%B9
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s1.baybalan.my:2198?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.jeayargote.my:2198?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Fr
 vless://070aeb41-af3b-4d59-8f8e-50aa8e4a387a@location-sports.decathlon.fr:2096?path=%2Fproxyip%3D31.172.71.41&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=yaemikomaidofshrine.dani-mirhoseini.workers.dev&fp=randomized&type=ws&sni=yaemikomaidofshrine.dani-mirhoseini.workers.dev#yae%F0%9F%87%A9%F0%9F%87%AA
 vless://20323543-fec3-4751-a110-4c1f01494116@ayna.com:2096?path=%2Fproxyip%3D91.228.10.7&security=tls&alpn=http%2F1.1&encryption=none&host=nahidachan.unlockedworlld724.workers.dev&fp=randomized&type=ws&sni=nahidachan.unlockedworlld724.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20nahida
 vless://2d8a5887-f521-4cf4-9006-eb5212c902f3@www.vzug.com:2096?path=%2Fproxyip%3D45.85.146.60&security=tls&alpn=h2&encryption=none&host=dearshorekeeper.unlocked-worlldd22acc.workers.dev&fp=random&type=ws&sni=dearshorekeeper.unlocked-worlldd22acc.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20%20traveller
