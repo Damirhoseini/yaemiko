@@ -1,3 +1,6 @@
+vless://d82621ad-315c-40ee-ad88-812d23a30db7@52.235.24.215:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=one.dilik.co#%F0%9F%87%A8%F0%9F%87%A6%20m
+vless://9g7pex4wi3@9g7pex4wi3-5114154146-direct.19kala.co:2086?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20m
+vless://ee1e4bc1-5f36-48db-91b7-87814602d29c@13.81.81.195:2087?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=microsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20m
 vless://ef4344e9-af2c-4244-a609-0e371921a222@smart.gadagoda.my:2082?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%A7%F0%9F%87%B6%20v2
 vless://10000004-3351-6193-f000-2fc4743ea010@108.181.123.35:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=jmT8Fm-4gyQSFwtCFl3JEG0smVy5TMzmXWArECNZDXE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=bc1490451236c144#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%A7%F0%9F%87%B6%20tt
 vless://20000004-2586-9213-f000-72298fd8a010@188.227.186.46:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=jmT8Fm-4gyQSFwtCFl3JEG0smVy5TMzmXWArECNZDXE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=bc1490451236c144#%F0%9F%87%AC%F0%9F%87%A7%20sc%20tt
@@ -6,6 +9,6 @@ vless://10000004-3007-8156-f000-f4ac5e09a010@95.154.197.175:443?security=reality
 trojan://MahsaNG-IRGFW@172.213.245.46:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=randomized&type=tcp&sni=12azitttt.rahavard365.co#%F0%9F%87%AE%F0%9F%87%B9
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s1.baybalan.my:2198?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20v2
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.jeayargote.my:2198?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20v2
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20v2
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@s2.baybalan.my:2198?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1_%20v2
 vless://070aeb41-af3b-4d59-8f8e-50aa8e4a387a@location-sports.decathlon.fr:2096?path=%2Fproxyip%3D31.172.71.41&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=yaemikomaidofshrine.dani-mirhoseini.workers.dev&fp=randomized&type=ws&sni=yaemikomaidofshrine.dani-mirhoseini.workers.dev#yae%F0%9F%87%A9%F0%9F%87%AA
 vless://20323543-fec3-4751-a110-4c1f01494116@ayna.com:2096?path=%2Fproxyip%3D91.228.10.7&security=tls&alpn=http%2F1.1&encryption=none&host=nahidachan.unlockedworlld724.workers.dev&fp=randomized&type=ws&sni=nahidachan.unlockedworlld724.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20nahida
