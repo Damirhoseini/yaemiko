@@ -10,3 +10,4 @@ vless://070aeb41-af3b-4d59-8f8e-50aa8e4a387a@location-sports.decathlon.fr:2096?p
 vless://20323543-fec3-4751-a110-4c1f01494116@ayna.com:2096?path=%2Fproxyip%3D91.228.10.7&security=tls&alpn=http%2F1.1&encryption=none&host=nahidachan.unlockedworlld724.workers.dev&fp=randomized&type=ws&sni=nahidachan.unlockedworlld724.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20nahida
 vless://6d91bc33-2d86-4839-9205-02024ff483c7@smart.gadagoda.my:2082?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20v2%20e
 trojan://3723507166611775488@195.133.93.234:443?security=tls&headerType=none&type=tcp&sni=wise-cowbird.boa152.lol#%F0%9F%87%A8%F0%9F%87%BE%20%F0%9F%87%A8%F0%9F%87%BE
+vless://7f93e196-1b2f-4a42-8051-5815554c05db@13.50.110.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zula.ir&alpn=http%2F1.1&fp=chrome&security=reality&pbk=GbWTeH8a_C8FLKqJ2hyuoY77WsSQIJschXB16usasCg&sid=7a2b#%F0%9F%87%B8%F0%9F%87%AA%20lima
