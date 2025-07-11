@@ -1,23 +1,16 @@
-vless://df9ce883-bc35-4bf9-9840-dac387956567@104.18.26.90:2096?path=%2Fproxyip%3Dalbedo.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=changli.dihos13139.workers.dev&fp=random&type=ws&sni=changli.dihos13139.workers.dev#ch%F0%9F%87%A9%F0%9F%87%AA
-vless://070aeb41-af3b-4d59-8f8e-50aa8e4a387a@104.18.26.90:443?path=%2Fproxyip%3Dcitlali.shorekeeper.ir&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=yaemikomaidofshrine.dani-mirhoseini.workers.dev&fp=random&type=ws&sni=yaemikomaidofshrine.dani-mirhoseini.workers.dev#yae%F0%9F%87%A9%F0%9F%87%AA
-vless://df9ce883-bc35-4bf9-9840-dac387956567@45.142.120.42:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=changli.dihos13139.workers.dev&fp=randomized&type=ws&sni=changli.dihos13139.workers.dev#%F0%9F%87%A9%F0%9F%87%AAtls
-vless://20323543-fec3-4751-a110-4c1f01494116@91.186.217.151:443?path=%2Fproxyip%3Drobin.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=nahidachan.unlockedworlld724.workers.dev&fp=random&type=ws&sni=nahidachan.unlockedworlld724.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%92%A4%20
-vless://a664f23a-09c6-42a7-abba-020017cf2470@hamibash.com:443?alpn=http%2F1.1&flow=&fp=random&host=robin.yelan85.dynv6.net&security=tls&sni=robin.yelan85.dynv6.net&type=ws#%F0%9F%87%A9%F0%9F%87%AAmiko
+vless://bd3a901d-5518-4fde-9ee4-499b3cd2b467@213.176.93.12:443?security=tls&alpn=http%2F1.1&encryption=none&host=augusta.cartethyia.v6.army&fp=random&type=ws&sni=augusta.cartethyia.v6.army#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8C%A7%20%F0%9F%8C%A6
+vless://a664f23a-09c6-42a7-abba-020017cf2470@85.133.228.120:443?security=tls&alpn=http%2F1.1&encryption=none&host=changli.shorekeeper.v6.rocks&fp=randomized&type=ws&sni=changli.shorekeeper.v6.rocks#%F0%9F%87%A9%F0%9F%87%AA%20shorekeeper
+vless://a664f23a-09c6-42a7-abba-020017cf2470@91.186.217.151:443?security=tls&alpn=http%2F1.1&encryption=none&host=robin.yelan85.dynv6.net&fp=random&type=ws&sni=robin.yelan85.dynv6.net#%F0%9F%87%A9%F0%9F%87%AAmiko
+vless://bd3a901d-5518-4fde-9ee4-499b3cd2b467@213.176.93.12:443?security=tls&alpn=http%2F1.1&encryption=none&host=nahida.yelan85.dynv6.net&fp=random&type=ws&sni=nahida.yelan85.dynv6.net#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%92%A4
 
 
 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@join.vpncustomize.vpncustomize.reziazaran.ir:443
-vmess://7e42ee2a-788f-47ce-96e1-2b9ab0704e7c@104.18.26.90:80?encryption=auto&host=q4.19kAla.co&path=%2F&type=ws
-vless://301d049f-26d9-15ba-a83c-b1d5111d4444@62.60.244.252:25888?flow=xtls-rprx-vision&fp=chrome&pbk=1wWJ_HJdLChMyEqb1agU0pQr26966K5SK4u7ehst-VQ&security=reality&sid=8c5f97c86a710a&sni=www.microsoft.com&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@vpns_land%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%9B%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVN252ZUFITGhPYWhGZ3dKbFRiRTlu@194.87.45.189:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@vpns_land%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%9B%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@vpns_land%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%9B%B8
-vless://42087502-62ad-43b6-a614-574c22ca8d36@run.huntex1.xyz:443?flow=&headerType=http&host=telewebion.com&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://1c6a665b-d306-464c-91de-fad0c31469e0@v2shop25.bing-net.com:4925?flow=&headerType=http&host=varzesh3.com&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://f3242907-f8e4-4166-8156-c773430bd8a4@hf.tin9.ir:2052?flow=&path=%2F&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://240052ac-0bf0-481f-adb4-f40a259fc189@all97-vip.f-sub.com:1517?flow=&headerType=http&host=varzesh3.com&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://240052ac-0bf0-481f-adb4-f40a259fc189@all97-vip.f-sub.com:1517?flow=&headerType=http&host=varzesh3.com&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://46677716-490d-4a51-8a68-c44090505da3@real-all2.sdcards.ir:8509?flow=&fp=firefox&pbk=LD--N4X5Fo6UKi8c6XIUGfFCuRWKmvLHk_bwacZVDD4&security=reality&sid=67ceba05200e42df&sni=tgju.org&type=tcp#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?flow=&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&security=reality&sid=7c0b6c88fe5c&sni=varzesh3.com&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vmess://20f40751-2c55-4338-b04f-f9409c6df5c3@cpanel.erade32.ir:100?encryption=auto&type=tcp#VMESS-TCP1%20-%20@iFreeVPNBot
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?flow=&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&path=%2F&security=tls&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?flow=&headerType=http&host=exo.ir&type=tcp#%2528%2540vmesskhodam%2529%25DA%2586%25D9%2586%25D9%2584%25D9%2585%25D9%2588%25D9%2586
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#(@vmesskhodam)%DA%86%D9%86%D9%84%D9%85%D9%88%D9%86
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.73.216:80?flow=&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&type=ws#%E2%9C%85@v2ray_configs_pools
+vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?flow=&headerType=http&host=exo.ir%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF&type=tcp#%E2%9C%85@v2ray_configs_pools
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?flow=&host=onlytesla1.xz027.com&path=%2F&type=ws#%E2%9C%85@v2ray_configs_pools
+hysteria2://a6d7f6b26192a447220f7555732c913f@109.120.179.185:33331?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=marz.hideus.xyz#%F0%9F%9A%80%20Marz%20(user2)%20%5Bhysteria2%20-%20%3Cmissing%3E%5D
+hysteria2://a6d7f6b26192a447220f7555732c913f@109.120.179.185:33331?obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=marz.hideus.xyz#%F0%9F%9A%80%20Marz%20(user2)%20%5Bhysteria2%20-%20%3Cmissing%3E%5D
