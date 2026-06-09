@@ -4,3 +4,6 @@ vless://f70086a0-510d-4cb1-5446-824eff4d0833@162.159.40.110:443?encryption=none&
 vless://38570608-3bb0-457d-8faf-0b5f8405b448@104.17.216.76:443?encryption=none&host=delicate-bonus.dani-mirhoseini.workers.dev&path=%2F&security=tls&sni=delicate-bonus.dani-mirhoseini.workers.dev&type=ws#flags%20%F0%9F%A4%94%20
 ss://YWVzLTEyOC1nY206ZjQxNjgyZDktNjE3ZC00NDUxLTg1ZGItNmFiZTA5MTAzMjUz@104.19.153.187:2053/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dold-dream.mr-danimirhoseini-177.workers.dev%3Btls#sonata%20%F0%9F%91%8C
 ss://YWVzLTEyOC1nY206ZjQxNjgyZDktNjE3ZC00NDUxLTg1ZGItNmFiZTA5MTAzMjUz@173.245.59.239:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2F%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dold-dream.mr-danimirhoseini-177.workers.dev%3Btls#%F0%9F%91%8D%20rivers
+trojan://f41682d9-617d-4451-85db-6abe09103253@172.67.65.162:443?host=lingering-hill-2590.milad-rad1997.workers.dev&path=%2F&sni=lingering-hill-2590.milad-rad1997.workers.dev&type=ws#Deep%20%F0%9F%98%9E
+trojan://f41682d9-617d-4451-85db-6abe09103253@162.159.36.191:2096?host=lingering-hill-2590.milad-rad1997.workers.dev&path=%2F&sni=lingering-hill-2590.milad-rad1997.workers.dev&type=ws#moonlight%20%F0%9F%8C%99
+
