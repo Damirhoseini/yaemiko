@@ -6,3 +6,4 @@ vless://853657f9-6ca0-4899-83fa-4c7e8b51e554@172.67.232.53:443?path=%2Fvl%2FrLwg
 vless://f41682d9-617d-4451-85db-6abe09103253@188.114.96.3:443?path=%2Fproxyip%3Dmelina.suisui.filegear-sg.me&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=edge-shield-957doh9hx9jx.kleeeeee.workers.dev&fp=chrome&ech=crypto.cloudflare.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=edge-shield-957doh9hx9jx.kleeeeee.workers.dev#%F0%9F%87%AB%F0%9F%87%B7%20
 aether://162.159.198.44:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2
 aether://162.159.198.162:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2%202
+aether://162.159.198.241:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Masq
