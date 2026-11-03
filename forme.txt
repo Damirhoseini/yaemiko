@@ -1,3 +1,5 @@
-aether://162.159.199.95:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2
-aether://162.159.199.111:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2%202
-aether://162.159.198.65:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Masq
+aether://162.159.198.239:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2
+aether://162.159.199.151:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2%202
+aether://162.159.198.192:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Masq
+aether://162.159.198.255:443?protocol=masque&scan=balanced&ip=v4&transport=h2&fingerprint=firefox#Mas%20h2%20fi
+aether://162.159.199.102:443?protocol=masque&scan=balanced&ip=v4&transport=h2&fingerprint=go#Mas%20h2%20g
