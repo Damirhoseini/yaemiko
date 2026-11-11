@@ -1,6 +1,6 @@
-aether://162.159.199.156:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2
-aether://162.159.198.48:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2
-aether://162.159.199.65:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Mas%20h2%202
-aether://162.159.198.116:443?protocol=masque&scan=balanced&ip=v4&transport=h2#Masq
-aether://162.159.198.63:443?protocol=masque&scan=balanced&ip=v4&transport=h2&fingerprint=firefox#Mas%20h2%20fi
-aether://162.159.198.192:443?protocol=masque&scan=balanced&ip=v4&transport=h2&fingerprint=go#Mas%20h2%20g
+aether://162.159.199.156:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Mas%20h2
+aether://162.159.198.48:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Mas%20h2
+aether://162.159.198.116:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Masq
+aether://162.159.199.65:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Mas%20h2%202
+aether://162.159.198.63:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net&fingerprint=firefox#Mas%20h2%20fi
+aether://162.159.198.192:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net&fingerprint=go#Mas%20h2%20g
