@@ -1,6 +1,6 @@
 aether://162.159.198.219:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Mas%20h2
 aether://162.159.198.192:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Mas%20h2
 aether://162.159.199.73:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Masq
-aether://162.159.199.62:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net&fragment=1#Mas%20h2%202
+aether://162.159.199.62:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net#Mas%20h2%202
 aether://162.159.198.230:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net&fingerprint=firefox&psiphon=chain&psiphon_mode=auto#Mas%20ai
 aether://162.159.198.241:443?protocol=masque&scan=balanced&ip=v4&transport=h2&sni=speedtest.net&fingerprint=go&psiphon=chain&psiphon_mode=auto#Mas%20Ai
